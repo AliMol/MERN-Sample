@@ -1,6 +1,6 @@
-#judo-heroes
+# judo-heroes
 
-This project is developed by Luciano Mammino in (https://github.com/lmammino/judo-heroes-2/tree/master/src),
+This project is developed by Luciano Mammino in (https://github.com/lmammino/judo-heroes-2),
 I am uploading it in my repository to show the design pattern that I am following in Node.js and React.js
 application development.
 
