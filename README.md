@@ -21,7 +21,7 @@ website
 
 1 - git clone https://github.com/AliMol/MERN-Sample.git
 
-2 - cd into installed folder MERN-SAMPLE
+2 - cd into installed folder : MERN-SAMPLE
 
 3 - run NPM install or YARN install
 
