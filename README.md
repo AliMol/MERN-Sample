@@ -16,3 +16,22 @@ Top down data passing
 
 This application was created to support a "Universal Javascript" (aka Isomorphic) tutorial published on Scotch.io
 website
+
+# Setup
+
+1 - git clone https://github.com/AliMol/MERN-Sample.git
+
+2 - cd into installed folder MERN-SAMPLE
+
+3 - run NPM install or YARN install
+
+4 - run NPM START
+
+you can see the application on http://localhost:3000
+
+....
+
+
+
+
+
