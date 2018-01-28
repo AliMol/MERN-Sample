@@ -19,15 +19,15 @@ website
 
 # Setup
 
-1 - git clone https://github.com/AliMol/MERN-Sample.git
+1 - Git clone https://github.com/AliMol/MERN-Sample.git
 
-2 - cd into installed folder : MERN-SAMPLE
+2 - CD into installed folder : MERN-SAMPLE
 
-3 - run NPM install or YARN install
+3 - Run NPM install or YARN install
 
-4 - run NPM START
+4 - Run NPM START
 
-you can see the application on http://localhost:3000
+You can see the application on http://localhost:3000
 
 ....
 
